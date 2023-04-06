@@ -1,4 +1,4 @@
-import presentationImg from "../assets/images/zhou-xian-_2IrHlei4TA-unsplash.jpg";
+import presentationImg from "../assets/images/desert.jpg";
 import { TypeAnimation } from "react-type-animation";
 import {
   FaTwitter,
